@@ -2,6 +2,13 @@
 
 json string convert to CCDictionary
 
+* object : CCDictionary
+* array : CCArray
+* string : CCString
+* number : CCFloat
+* true/false : CCBool
+* null : NULL
+
 ## Usage
 
 ```
